@@ -1,0 +1,2 @@
+
+print("Ik ben linda")
